@@ -1,0 +1,52 @@
+/* font-family: 'Akronim', cursive;
+font-family: 'Ephesis', cursive; */
+
+h1{
+    color: rgb(190, 4, 97);
+    text-shadow: -1px 6px 6px rgba(0,0,0,0.6);
+    font-family: 'Akronim', cursive
+}
+.caja{
+    width: 90px;
+    height: 90px;
+    background: #eccf11;
+background: radial-gradient(circle farthest-side at bottom left, #eccf11 0%, #d8d80c 40%, #ff0064 80%);
+background: -webkit-radial-gradient(circle farthest-side at bottom left, #eccf11 0%, #d8d80c 40%, #ff0064 80%);
+background: -moz-radial-gradient(circle farthest-side at bottom left, #eccf11 0%, #d8d80c 40%, #ff0064 80%);
+box-shadow: 10px 10px 30px black;
+padding: 15px;
+border-radius: 0px 106px 102px 105px;
+-webkit-border-radius: 0px 106px 102px 105px;
+-moz-border-radius: 0px 106px 102px 105px;
+font-family: 'Ephesis', cursive
+}
+.texto{
+    background-color: rgb(177, 24, 95);
+    width: 700px;
+    height: 180px;
+    column-count: 2;
+    padding: 10px;
+    column-gap: 20px;
+    column-rule: 2px solid rgb(7, 7, 7);
+    box-shadow: 38px 18px 51px -12px rgba(3,2,2,0.71);
+    -webkit-box-shadow: 38px 18px 51px -12px rgba(3,2,2,0.71);
+    -moz-box-shadow: 38px 18px 51px -12px rgba(3,2,2,0.71);
+    border-bottom: 10px double #100f0f;
+border-left: 10px solid #0d0d0d;
+font-family: 'Ephesis', cursive
+}
+
+h2{
+    font-family: 'Ephesis', cursive
+}
+
+h3{
+    font-family: 'Ephesis', cursive
+}
+
+h4{
+    font-family: 'Ephesis', cursive
+}
+p{
+    font-family: 'Ephesis', cursive 
+}
